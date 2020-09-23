@@ -1,7 +1,10 @@
-@media (min-width: 400px) {
+@media (min-width:300px) {
     .slide-info {
         padding-top: 50%;
     }
+}
+@media (min-width: 400px) {
+  
     .center {
         display: flex;
         justify-content: center;
